@@ -53,3 +53,6 @@ O projeto é organizado nas seguintes etapas:
 
 5. **Interpretação**
    - Análise das informações obtidas a partir dos dados.
+
+## Disclaimer
+Projeto feito com auxílio de IA 
